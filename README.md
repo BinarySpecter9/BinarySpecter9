@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7B61FF&height=220&section=header&text=Ubaid%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<h1 align="center">Hi there, I'm Ubaid Ali 👋</h1>
+<h1 align="center">Hi there, I'm Binary Specter 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=IT+Student+%F0%9F%8E%93;Learning+by+Building+%F0%9F%9B%A0%EF%B8%8F;Curious+about+AI+%F0%9F%A4%96;Welcome+to+my+profile!" alt="Typing SVG" /></a>
